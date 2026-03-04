@@ -1,7 +1,7 @@
 # Hi, I'm Sw1fty 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=500&lines=Project+Manager+%40+China+Telecom;Embedded+Systems+%26+IoT+Enthusiast;Hardware+%26+FPGA+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=500&lines=Project+Manager+%40+China+Telecom;Petrol+Head;Tech+Nerd" alt="Typing SVG" />
 </div>
 
 ### 💼 Professional
