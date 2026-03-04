@@ -6,7 +6,6 @@
 
 ### 💼 Professional
 **Project Manager** @ China Telecom  
-Focus: IoT Project Management | Embedded Systems Implementation | FPGA-based Solution Delivery
 
 ### 🎓 Education
 - **MSc Embedded Systems & IoT** | Newcastle University
