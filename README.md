@@ -15,11 +15,6 @@
 ## 🔧 Skills
 Python • C++ • Verilog • STM32 • ESP32 • Raspberry Pi • Xilinx Zynq FPGA • IoT • Embedded Systems
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sw1ftyL&layout=compact&theme=tokyonight&hide_border=true" width="80%" />
-</div>
-
 ## ✨ Personality
 INFP
 
