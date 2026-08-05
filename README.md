@@ -57,7 +57,7 @@
 |          ![TAER](https://img.shields.io/badge/TAER-Edge%20Runtime-%2336BCF7?style=for-the-badge)          |        ![WeComSrv](https://img.shields.io/badge/WeComSrv-Automation-%2307C160?style=for-the-badge&logo=wechat&logoColor=white)         | ![WeComReporter](https://img.shields.io/badge/WeComReporter-Analytics-%23FF6B35?style=for-the-badge&logo=googleanalytics&logoColor=white) |
 |                   **TeleAgent Edge Runtime**                   |                        **企业微信自动化服务**                        |                        **群消息智能分析与通报**                        |
 | 智能体边缘运行时<br/>面向一线交付的事件驱动执行框架 | 群消息采集、解密与本地 API 暴露<br/>单 exe 零依赖部署 | 多群独立策略分析 + 自我迭代<br/>双通道推送，结论先行 |
-|          [Repo →](https://github.com/Sw1ftyL/TAER)           |           [Repo →](https://github.com/Sw1ftyL/WeComSrv)            |         [Repo →](https://github.com/Sw1ftyL/WeComReporter)          |
+|          [Repo →](https://github.com/Sw1ftyL/TAER)           |           [Repo →](https://github.com/Sw1ftyL/WeComSrv-WeComReporter)            |         [Repo →](https://github.com/Sw1ftyL/WeComSrv-WeComReporter)          |
 
 </div>
 
